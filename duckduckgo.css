@@ -1,0 +1,40 @@
+h1 {
+    color: blue;
+}
+h2 {
+    text-align: right;
+    font-style: italic;
+}
+form {
+    margin-top: 5em;
+}
+body {
+    background-color: lavender;
+}
+.ducks {
+    text-align: center;
+    color:purple;
+    text-decoration: line-through;
+}
+.ducktext {
+    border: 4;
+    border-radius: 0.5em;
+    padding: 1em;
+    border-color: black;
+}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: first baseline;
+}
+.left-col {
+    text-align: justify;
+    padding-right: 2em;
+    padding-top: 4em;
+    font-size: small;
+}
+.right-col {
+    text-align: center;
+    color: darkgray;
+    font-size: large;
+}
