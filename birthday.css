@@ -1,0 +1,20 @@
+body {
+    background-color: olivedrab;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    text-align: right;
+    font-style: italic;
+}
+div {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.woman {
+    font-weight: bold;
+    text-align: center;
+    color: darkgreen;
+}
